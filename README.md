@@ -29,4 +29,15 @@ Utilities utils = new Utilities();
 // set the users clipboard to whatever you want
 String currentClipboard = utils.setClipboard("Hello, World!");
 ```  
+
+## Binary.java
+This is another script containing some utilities that are based on binary
+
+### toBinary("*Integer*")
+```Java
+// create the binary object
+Binary binary = new Binary();
+// convert the number 5 and print it as binary 0101
+String inBinary = binary.toBinary(5);
+```
 --Rhys--

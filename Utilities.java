@@ -6,6 +6,7 @@
  * @version 0.1
  * @since 2023-12-21
  */
+
 // used for the clipboard functions
 
 import java.awt.Toolkit;
